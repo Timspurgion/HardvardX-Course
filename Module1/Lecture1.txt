@@ -1,0 +1,8 @@
+HTML5 & CSS3
+
+We begin the lecture with two of the languages that are foundamental to understanding web 
+pages and how web browsers are able to display those web pages.
+
+HTML or HyperText Markup languages is a language used to discribe te structure of the web page,
+the buttons, texts, forms, and oter parts of te web page that the users ultimately sees and
+interact with.
